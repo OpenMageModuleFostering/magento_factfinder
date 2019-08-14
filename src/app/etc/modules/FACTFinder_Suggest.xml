@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <FACTFinder_Suggest>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <FACTFinder_Core/>
+
+            </depends>
+        </FACTFinder_Suggest>
+    </modules>
+</config>

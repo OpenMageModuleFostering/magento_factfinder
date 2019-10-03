@@ -1,15 +1,22 @@
-Magento-FACTFinder
-==================
+## Original Package Description
 
-This is a module for Magento giving the possibility to integrate FACT-Finder into your system as fast as possible.
-
-It's purpose is a basic integration that can be used to build your wished integration on top of it. This is the reason we try to insert as less specific features and templates as possible and want to improve it to get a "software developer kit" character.
-
-However we can not guarantee a smooth integration as there can be conflicts with other extensions. Such things can happen at Magento and need to be solved from a developer.
+Integrates the FACT-Finder for improved product search functionality
 
 
-FACT-Finder
-==========
+## Disclaimer
 
-FACT-Finder is a search service provided by the "Omikron Data Quality GmbH" (www.omikron.net).
-More information about FACT-Finder at www.fact-finder.com
+This is a Repository imported from the Magento Marketplace, formerly known as Magento connect.
+The purpose is, to archive them in a permanent way, you can read more about it in our blogbost: https://openmage.github.io/2019/08/18/new-home-magento-connect-modules.html
+There is a chance, this repository misses some of the newer version.
+We rely on our users to inform us about newer Releases. And if they can provide them to us, this would be even better.
+
+### The original source is already on a public Git?
+
+Please also inform us about them, then we can mark our repository as discontinued and refer to the other Repository.
+
+### Contact us
+
+the easiest way is to create an Issue here, we have an eye on them.
+
+Alternative you can try to contact @Flyingmana directly.
+ 
